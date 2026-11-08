@@ -14,7 +14,7 @@
   <a href="https://pkg.go.dev/github.com/discord-go/discord.go"><img src="https://pkg.go.dev/badge/github.com/discord-go/discord.go.svg" alt="Go Reference"></a>
   <a href="https://goreportcard.com/report/github.com/discord-go/discord.go"><img src="https://goreportcard.com/badge/github.com/discord-go/discord.go" alt="Go Report Card"></a>
   <img src="https://img.shields.io/badge/Discord%20API-v10-5865f2.svg" alt="Discord API v10">
-  <img src="https://img.shields.io/badge/Go-1.26+-00add8.svg" alt="Go Version">
+  <img src="https://img.shields.io/badge/Go-1.22+-00add8.svg" alt="Go Version">
   <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License">
 </p>
 
@@ -49,7 +49,7 @@ applications in Go.
 go get github.com/discord-go/discord.go
 ```
 
-Requires Go 1.26 or newer. The library targets Discord API v10.
+Requires Go 1.22 or newer. The library targets Discord API v10.
 
 ## Links
 
